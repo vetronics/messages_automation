@@ -143,12 +143,6 @@ Detailed documentation can be found in the following sections of the repository:
 - Current Version: 1.0.0
 - Created by: @vetronics
   
-## 🔄 Future Improvements Needed
-- Scheduled message sending capability
-- Multi-platform configuration support
-- Message formatting options
-- Media attachment support
-- Multiple chat support
 
 ---
 *Remember: With automation comes responsibility. Use this tool ethically and responsibly.*
