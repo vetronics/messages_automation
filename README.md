@@ -37,7 +37,7 @@ This tool should NOT be used for:
 ## ⚠️ Limitations
 1. **Application Specific**
    - Requires manual adjustment of the application name in the script (row 44)
-   - Example: Change "telegram" to "whatsapp" or "signal" depending on your target application
+   - Example: Change  to "whatsapp" or "signal" depending on your target application
 
 2. **Functionality Restrictions**
    - Only works with basic text input fields
