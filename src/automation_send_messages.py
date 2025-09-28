@@ -35,13 +35,13 @@ limit_of_for_loop = int(input())
 
 # search telegram on your operative system 
 
-print("telegram is starting ")
+print("whatsapp is starting ")
 
 pyautogui.press("win")
 
 time.sleep(0.5)
 
-pyautogui.write("telegram")
+pyautogui.write("whatsapp")
 
 time.sleep(0.5)
 
@@ -56,6 +56,7 @@ for i in range(limit_of_for_loop):
     pyautogui.write(message)
     time.sleep(1)
     pyautogui.press("enter")
+
 
 
 
