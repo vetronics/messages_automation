@@ -33,7 +33,7 @@ print("how many time do you wanna repete the message in chat ? \n\n")
 limit_of_for_loop = int(input())
 
 
-# search telegram on your operative system 
+# search whatsapp on your operative system 
 
 print("whatsapp is starting ")
 
@@ -56,6 +56,7 @@ for i in range(limit_of_for_loop):
     pyautogui.write(message)
     time.sleep(1)
     pyautogui.press("enter")
+
 
 
 
