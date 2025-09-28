@@ -27,7 +27,6 @@ This tool should NOT be used for:
 ## 🛠️ Features
 - 🤖 Basic text message automation
 - 💬 Works with various messaging platforms:
-  - Telegram Desktop
   - WhatsApp Desktop
   - Signal Desktop
   - Any application with text input fields
